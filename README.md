@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on advance cybersecurity tools and also working on a compression algorithm .<br>I'm very passionate when it comes with anything relating to IT.<br>I'm always busy thinking about solutions I can bring up to slove problems .Here you can find advance tools to reach your goal as a red team operator<br>I will be  uploading my projects soon on https://github.com/kobbycyber1
+I'm currently working on advance cybersecurity tools and also working on a compression algorithm .<br>I'm very passionate when it comes with anything relating to IT.<br>I'm always busy thinking about solutions I can bring up to slove problems .<br>Here you can find advance tools to reach your goal as a red team operator<br>I will be  uploading my projects soon on https://github.com/Cybertron-1
 
 
 ## 🌐 Socials:
