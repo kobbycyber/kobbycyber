@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on advance cybersecurity tools and also working on a compression algorithm .<br>I'm very passionate when it comes with anything relating to IT.<br>I'm always busy thinking about solutions I can bring up to slove problems .
+I'm currently working on advance cybersecurity tools and also working on a compression algorithm .<br>I'm very passionate when it comes with anything relating to IT.<br>I'm always busy thinking about solutions I can bring up to slove problems .Here you can find advance tools to reach your goal as a red team operator<br>
 
 
 ## 🌐 Socials:
