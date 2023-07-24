@@ -22,7 +22,7 @@ I'm currently working on advance cybersecurity tools and also working on a explo
 ![](https://github-contributor-stats.vercel.app/api?username=kobbycyber&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://meraj-create-random-meme.pages.dev/" width="512px"/>
+<img src="https://programmerhumor.io/wp-content/uploads/2023/05/programmerhumor-io-java-memes-javascript-memes-c6b0772596cc71a.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kobbycyber&icon=0&color=0)](https://visitcount.itsvg.in)
